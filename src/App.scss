@@ -1,0 +1,27 @@
+/**
+ * @App scss for (Template/Project Name)
+ * @project     - API SmartDoorbell
+ * @author      - 
+ * @created_by  - kawsar bin siraj
+ * @created_at  - 14-10-2021
+ * @modified_by -
+ */
+
+/* reset, root */
+*:focus {
+    box-shadow: none !important;
+}
+
+:root {
+    --clr-dark: #181a48;
+    --clr-sunset-orange: #f76d6d;
+}
+
+/* reset, root -END */
+
+
+/* helper classes */
+.fw-semi-bold {
+    font-weight: 600;
+}
+/* helper classes -END */
