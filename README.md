@@ -1,1 +1,1 @@
-## React Face Recognition with TENSORFLOW js
+## React Face Detections with TENSORFLOW js
